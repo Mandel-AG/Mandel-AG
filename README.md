@@ -3,8 +3,6 @@
 
 - 👨‍💻 Mes projets sont disponibles sur mon portfolio : [https://agb-man-portfolio.netlify.app/](https://agb-man-portfolio.netlify.app/)
 
-- 📫 Contactez moi par email :  **a.mandel06@gmail.com**
-
 
 
 <p align="left">
