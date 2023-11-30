@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Mandel</h1>
-<h3 align="center">Je suis Développeur web basé en région Parisienne.</h3>
+<h3 align="center">Je suis Développeur web.</h3>
 
 - 👨‍💻 Mes projets sont disponibles sur mon portfolio : [https://agb-man-portfolio.netlify.app/](https://agb-man-portfolio.netlify.app/)
 
